@@ -1,0 +1,14 @@
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\bin\Debug\net8.0\SingleNumberII.exe
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\bin\Debug\net8.0\SingleNumberII.deps.json
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\bin\Debug\net8.0\SingleNumberII.runtimeconfig.json
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\bin\Debug\net8.0\SingleNumberII.dll
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\bin\Debug\net8.0\SingleNumberII.pdb
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\obj\Debug\net8.0\SingleNumberII.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\obj\Debug\net8.0\SingleNumberII.AssemblyInfoInputs.cache
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\obj\Debug\net8.0\SingleNumberII.AssemblyInfo.cs
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\obj\Debug\net8.0\SingleNumberII.csproj.CoreCompileInputs.cache
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\obj\Debug\net8.0\SingleNumberII.dll
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\obj\Debug\net8.0\refint\SingleNumberII.dll
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\obj\Debug\net8.0\SingleNumberII.pdb
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\obj\Debug\net8.0\SingleNumberII.genruntimeconfig.cache
+c:\Users\gsnogueira\Desktop\LeetSolutions\SingleNumberII\obj\Debug\net8.0\ref\SingleNumberII.dll
